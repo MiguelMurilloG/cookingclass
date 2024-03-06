@@ -21,19 +21,30 @@ h1  {
   letter-spacing: 4px;
   color: #252525;
   border: none;
+  font-size: 200%;
+   
+}
+
+#title {
+  float: left;
+  font-size: 150%;
+  margin-left: 30px;
   
 }
 
+#menu, #title {
+  line-height: 80px;
+}
+
 #menu {
-  font-size: 100%;
-  letter-spacing: 5px;
+  font-size: 120%;
+  letter-spacing: 4px;
 }
 
 #menu li {
   float: inherit;
   list-style: none;
   margin-inline-start: 300px;
-  text-align: left;
   display: inline;
 
 }
@@ -50,3 +61,21 @@ color: inherit;
 .course {
   border-bottom: 2px solid #3a3a3a;
 } 
+
+/* chef picture */
+
+.first-section {
+  height: 600px;
+  width: 100%;
+  background-image: url(../images/chefteam.jpg);
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+ 
+ 
+
+}
+.menu-nav {
+position: absolute;
+}

@@ -60,9 +60,7 @@ color: inherit;
   border-bottom: 2px solid #3a3a3a;
 }
 
-.course {
-  border-bottom: 2px solid #3a3a3a;
-} 
+
 
 /* chef picture */
 
@@ -73,5 +71,20 @@ color: inherit;
   background-size:cover;
   background-position: center center;
   background-repeat: no-repeat; 
+
+/* chef animation*/
+animation-name: chef-image;
+animation-duration: 3s;
+animation-fill-mode: forwards;
+
+}
+
+@keyframes chef-image {
+  from{
+    transform: scale(0.9);
+  }
+  to {
+    transform: scale(1.01);
+  }
 }
  

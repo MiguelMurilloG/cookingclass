@@ -98,7 +98,8 @@ animation-fill-mode: forwards;
   padding: 30px;
   width: 33%;
   float: left;
-  font-size: 200%;
+  font-size: 220%;
+  margin: 5px;
 }
 
 #welcome {
@@ -108,21 +109,29 @@ margin: 20px;
 }
 
 
-#circle-container {
-  width: 300px;
-  height: 300px;
-  padding: 30px;
-  border-radius: 100%;
-  margin: 1 auto;
-  float: right;
-  
+footer {
+  height: 5px;
+  align-items: center;
 }
 
-#circle-cover {
-  background-image: url(../images/chef-leader.jpg);
-  background-repeat:no-repeat;
-  height: 75%;
-  border-radius: 50%;
-  
+.social-network {
+  text-align: center;
+}
+
+.social-network > li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  display: block;
+  color: #fafafa;
+
+
+}
+
+.social-network {
+  font-size: 200%;
+  margin: 1%;
+  padding: 5%;
 
 }

@@ -108,6 +108,7 @@ font-size: 300%;
 margin: 20px;
 }
 
+/* social network */
 
 footer {
   height: 5px;
@@ -119,19 +120,15 @@ footer {
 }
 
 .social-network > li {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  display: block;
-  color: #fafafa;
-
-
+  display: inline-block;
+  margin: 100px;
+ 
 }
 
-.social-network {
+.social-network i {
   font-size: 200%;
-  margin: 1%;
+  margin: 0 10px;
   padding: 5%;
+  color: #fafafa;
 
 }

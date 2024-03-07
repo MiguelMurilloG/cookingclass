@@ -39,7 +39,7 @@ h1  {
 }
 
 #menu {
-  font-size: 100%;
+  font-size: 150%;
   letter-spacing: 4px;
 }
 
@@ -88,3 +88,41 @@ animation-fill-mode: forwards;
   }
 }
  
+/*join us*/
+
+#join-us {
+  height: 600px;
+}
+
+#left-description {
+  padding: 30px;
+  width: 33%;
+  float: left;
+  font-size: 200%;
+}
+
+#welcome {
+text-align: center;
+font-size: 300%;
+margin: 20px;
+}
+
+
+#circle-container {
+  width: 300px;
+  height: 300px;
+  padding: 30px;
+  border-radius: 100%;
+  margin: 1 auto;
+  float: right;
+  
+}
+
+#circle-cover {
+  background-image: url(../images/chef-leader.jpg);
+  background-repeat:no-repeat;
+  height: 75%;
+  border-radius: 50%;
+  
+
+}

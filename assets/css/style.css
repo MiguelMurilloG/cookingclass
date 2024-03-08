@@ -115,7 +115,7 @@ margin: 20px;
 /* social network */
 
 footer {
-  height: 5px;
+  height: 100px;
   align-items: center;
 }
 
@@ -126,13 +126,40 @@ footer {
 .social-network > li {
   display: inline-block;
   margin: 100px;
+  
  
 }
 
 .social-network i {
   font-size: 200%;
   margin: 0 10px;
-  padding: 1%;
+  padding: 10%;
   color: #fafafa;
+  
+
+}
+
+
+
+
+
+/* sign up form */
+
+form {
+
+  margin: 100px 1%;
+  clear: left;
+  padding: 20%;
+  background-image: url(../images/head-chef.jpg);
+  background-repeat: no-repeat;
+  background-size:cover
+
+}
+
+.form-group {
+ border: 1px;
+ margin-bottom: 20px;
+ width: 100%;
+  
 
 }

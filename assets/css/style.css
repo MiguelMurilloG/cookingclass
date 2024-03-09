@@ -146,20 +146,21 @@ footer {
 /* sign up form */
 
 form {
-
-  margin: 100px 1%;
-  clear: left;
-  padding: 20%;
-  background-image: url(../images/head-chef.jpg);
-  background-repeat: no-repeat;
-  background-size:cover
+  height: 600px;
+  width: 80%;
+  margin: 1px;
+  padding: 5%;
+  font-size: 180%;
 
 }
 
-.form-group {
- border: 1px;
- margin-bottom: 20px;
- width: 100%;
-  
+.bg-img {
+  height: 700px;
+  width: 90%;
+  background-image: url(../images/head-chef.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+
 
 }

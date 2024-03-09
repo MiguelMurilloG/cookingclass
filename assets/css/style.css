@@ -171,9 +171,34 @@ img {
 }
 
 .form-group{
-  height:5%;
-  width: 10%;
-  margin: 2%;
-  background-color: red
+  height:50px;
+  width: 200px;
+  overflow:hidden;
+  box-shadow: 5px 20px 50px #000;
+  margin:30px;
+  
+
+}
+
+input {
+  width: 100%;
+  height: 20%;
+  justify-content: center;
+  display: flex;
+  padding: 30px;
+  border: none;
+  outline: none;
+  
+}
+
+button {
+  width: 60%;
+  height: 40px;
+  margin: 10px auto;
+  justify-content: center;
+  display: block;
+  font-weight: bold;
+  margin-top: 20px;
+  border: none;
 
 }

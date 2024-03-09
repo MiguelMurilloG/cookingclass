@@ -151,30 +151,29 @@ img {
 .box-container {
   clear: both;
   line-height: 0;
-  column-count: 2;
+  column-count: 3;
   column-gap: 0;
+  
+  
 }
 
 
 
 /* sign up form */
 
-form {
-  height: 600px;
-  width: 80%;
-  margin: 1px;
-  padding: 5%;
-  font-size: 180%;
-
-}
-
 .bg-img {
-  height: 700px;
-  width: 90%;
+  height: 800px;
+  width: 100%;
   background-image: url(../images/head-chef.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+}
 
+.form-group{
+  height:5%;
+  width: 10%;
+  margin: 2%;
+  background-color: red
 
 }

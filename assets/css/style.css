@@ -139,7 +139,21 @@ footer {
 
 }
 
+/* photography */ 
 
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.box-container {
+  clear: both;
+  line-height: 0;
+  column-count: 2;
+  column-gap: 0;
+}
 
 
 

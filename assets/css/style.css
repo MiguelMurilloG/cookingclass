@@ -92,7 +92,7 @@ animation-fill-mode: forwards;
 /*join us*/
 
 .join-us {
-  height: 100px;
+  height: 100%;
 }
 
 h2 {
@@ -102,7 +102,7 @@ font-size: 30px;
 }
 
 p {
-  padding: 80px;
+  padding: 55px;
   width: 90%;
   text-align: center;
   font-size: 25px;

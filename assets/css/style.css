@@ -29,8 +29,8 @@ h1  {
 
 #title {
   float: left;
-  font-size: 200%;
-  margin-left: 60px;
+  font-size: 150%;
+  margin-left: 30px;
   
 }
 
@@ -39,15 +39,15 @@ h1  {
 }
 
 #menu {
-  font-size: 150%;
-  letter-spacing: 4px;
+  font-size: 120%;
+  letter-spacing: 3px;
 }
 
 #menu li {
-  float: inherit;
+  float: right;
   list-style: none;
-  margin-inline-start: 300px;
-  display: inline;
+  margin-right: 40px;
+ 
 
 }
 
@@ -65,12 +65,13 @@ color: inherit;
 /* chef picture */
 
 #chef-image {
-  height: 600px;
+  height: 700px;
   width: 100%;
   background-image: url(../images/chef-team.jpg);
   background-size:cover;
   background-position: center center;
   background-repeat: no-repeat; 
+  overflow: hidden;
 
 /* chef animation*/
 animation-name: chef-image;
@@ -97,23 +98,27 @@ animation-fill-mode: forwards;
 h2 {
 margin-top: 60px;
 text-align: center;
-font-size: 40px;
+font-size: 30px;
 }
 
 p {
   padding: 80px;
   width: 90%;
   text-align: center;
-  font-size: 40px;
+  font-size: 25px;
   margin: 1;
 }
 
 
 /* social network */
 
+body > footer{
+  position: relative;
+}
+
 footer {
-  height: 100px;
-  align-items: center;
+  height: 9em;
+ margin-bottom: 0px;
 }
 
 .social-network {
@@ -121,16 +126,16 @@ footer {
 }
 
 .social-network > li {
-  display: inline-block;
-  margin: 100px;
+  display: inline;
+
   
  
 }
 
 .social-network i {
-  font-size: 200%;
-  margin: 0 10px;
-  padding: 10%;
+  font-size: 150%;
+  margin: 1px;
+  padding: 2%;
   color: #fafafa;
   
 
@@ -157,20 +162,25 @@ img {
 
 
 /* sign up form */
-#signup {
+.sign-up {
   background-image: url("../images/head-chef.jpg");
   background-size: cover;
-  background-position: 100%;
-  padding: 300px 40%  5%;
+  background-position: center;
+  padding: 250px 40%  5%;
+  height: 400px;
+  overflow: hidden;
   margin: 0;
 
 }
-#signup-form {
+.signup-form {
   color: #ffffff;
   background-color: rgba(60, 60, 60, 0.6);
-  padding: 30px;
+  padding: 10px;
+  position: absolute;
+  left: 10%;
+  max-width: 400px;
 }
-#signup-form > h2 {
+.signup-form > h2 {
   color: #fafafa;
   margin-bottom: 20px;
 }
@@ -182,20 +192,39 @@ img {
   margin: 5px 0 20px 0;
   border: 1px solid #fafafa;
   border-radius: 2px;
-  padding: 0 5px;
+
 }
 .join-button {
   margin-top: 20px;
   border-radius: 2px;
-  padding: 15px 32px;
-  font-size: 100%;
+  padding: 15px 32px 15px 32px;
+  font-size: 70%;
   background-color: #3a3a3a;
+  text-align: center;
   color: #fafafa;
 }
 
-/* for medium screen sizes */
-@media (max-width: 600px) {
-  #menu {
+/* for large medium screen sizes 1200px */
+@media (max-width: 1200px) {
+ 
+  #chef-image {
     width: 100%;
+    height: 1200px;
+    margin: 0 auto;
   }
 }
+
+/* for medium screens 950px*/
+
+@media screen and (max-width: 950px) {
+
+  #menu {
+    clear: left;
+    float:left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+  }
+
+}
+  

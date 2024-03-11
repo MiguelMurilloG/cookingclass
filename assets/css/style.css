@@ -65,7 +65,7 @@ color: inherit;
 /* chef picture */
 
 #chef-image {
-  height: 700px;
+  height: 600px;
   width: 100%;
   background-image: url(../images/chef-team.jpg);
   background-size:cover;
@@ -191,4 +191,11 @@ img {
   font-size: 100%;
   background-color: #3a3a3a;
   color: #fafafa;
+}
+
+/* for medium screen sizes */
+@media (max-width: 600px) {
+  #menu {
+    width: 100%;
+  }
 }

@@ -30,21 +30,22 @@ h1  {
 #title {
   float: left;
   font-size: 150%;
-  margin-left: 30px;
+  margin-left: 10px;
   
 }
 
-#menu, #title {
-  line-height: 75px;
+#menu, #title{
+  line-height: 85px;
 }
 
 #menu {
+  float: right;
   font-size: 120%;
   letter-spacing: 3px;
 }
 
 #menu li {
-  float: right;
+  float: left;
   list-style: none;
   margin-right: 40px;
  
@@ -59,7 +60,6 @@ color: inherit;
 #menu a:hover {
   border-bottom: 2px solid #3a3a3a;
 }
-
 
 
 /* chef picture */
@@ -104,23 +104,25 @@ margin-bottom: auto;
 }
 
 p {
-  padding: 15px;
+  padding: 40px;
   width: 90%;
   text-align: center;
-  font-size: 25px;
+  font-size: 140%;
+  line-height: 30px;
 
 }
 
 
 /* social network */
 
-body > footer{
+ body > footer {
   position: relative;
-}
+ }
 
 footer {
-  height: 9em;
- margin-bottom: 0px;
+  height: 100px;
+  margin-top: 30px ;
+ margin-bottom: 20px;
 }
 
 .social-network {
@@ -214,32 +216,29 @@ img {
     height: 1200px;
     margin: 0 auto;
   }
-
-
-  #menu {
-    clear: left;
-    float:left;
-    margin-left: 30px;
-    margin-bottom: 20px;
-    line-height: 25px;
 }
 
-/* for medium screens 950px*/
+
+
+/* for medium screens 950px */
 
 @media screen and (max-width: 950px) {
 
   #menu {
-    clear: left;
-    float:left;
-    margin-left: 30px;
-    margin-bottom: 20px;
-    line-height: 25px;
+    
+      width: 90%;
+      height: auto;
+      margin: 0 auto;
   }
+
+  .box-container {
+      column-count: 3;
 }
-  
+}
+ 
 /* For small screens sizes from 800px wide and down */
 @media screen and (max-width: 800px) {
-  .photos {
+  .box-container {
       column-count: 2;
   }
 }

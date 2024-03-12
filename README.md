@@ -69,15 +69,15 @@ My project consists of three webpages:
 
 ### Google Chrome Browser
 
-![Google Chrome Browser](docs/Google_Chrome_browser.png)
+![Google Chrome Browser](docs/chrome-browser.png)
 
 ### Safari Browser
 
-![Google Chrome Browser](docs/Safari_browser.png)
+![Safari Browser](docs/safari-browser.png)
 
-### Firefox Mobile Browser
+### Firefox Browser
 
-![Google Chrome Browser](docs/Firefox_Mobile_browser.jpeg)
+![Firefox Browser](docs/firefox-browser.png)
 
 
 ## Bugs
@@ -89,37 +89,25 @@ My project consists of three webpages:
 
 ![Screenshot of the anchor element](assets/images/anchor_code.png)
 
-- The box I created for the profile page was out alignment at top, this due the "float left" I applied to the logo/header in my css file.
-- I solved this by applying "clear left" to the box profile ID:
 
 ![Screenshot of the box id](assets/images/CSS_Profile_Box.png)
 
-- The "Home" image was a little heavy and affected somehow the score for performance in lighthouse for this section of the website, I fixed this by converting the file to jpeg and reducing the size.
+- The pictures in the website the resolution was too high  and affected the score for performance in lighthouse for this section of the website, I fixed this by converting the file reducing the size.
 
 ### Unfixed Bugs
 
-- Due to time constraints I could not test the site for all type of mobile phones, the site works very well in most mobile standard devices, laptops and desktop computer.
+- No unfixed bugs.
 
 
 ## Validator Testing
 
 ### HTML
 
-- The first time I run the html in W3C, it returned with a few errors encountered in the title of the images, I fixed this by renaming the images title by using underscore to eliminate any existing space from the name; run the html files again and this time no errors were returned when passing through the official W3C validator.
-
-![W3C HTML Validator Home Screenshot](assets/images/W3C_HTML_Validator.png)
-
-![W3C HTML Validator Profile Screenshot](docs/WC3_html_profile.png)
-
-![W3C HTML Validator Galley Screenshot](docs/WC3_html_gallery.png)
-
-![W3C HTML Validator Contact Screenshot](docs/WC3_html_contact.png)
+- No errors were returned when passing through the officia W3C
 
 ### CSS
 
 - No errors were found when passing through the official (Jigsaw) validator.
-
-![W3C CSS Validator screenshot](assets/images/W3C_CSS_Validator.png)
 
 ### Accessibility
 
@@ -127,23 +115,19 @@ My project consists of three webpages:
 
 ### Desktop
 
-![lighthouse Images Home Desktop](docs/home_page_lighthouse_desktop.png)
+![lighthouse Images Home Desktop](docs/home-lighthouse-desktop.png)
 
-![lighthouse Images Profile Desktop](docs/profile_page_lighthouse_desktop.png)
+![lighthouse Images Photos Desktop](docs/photos-lighthouse-desktop.png)
 
-![lighthouse Images Gallery Desktop](docs/gallery_page_lighthouse_desktop.png)
-
-![lighthouse Images Contact Desktop](docs/contact_page_lighthouse_desktop.png)
+![lighthouse Images Sign up Desktop](docs/signup-lighthouse-desktop.png)
 
 ### Mobile
 
 ![lighthouse Images Home Mobile](docs/)
 
-![lighthouse Images Profile Mobile](docs/profile_page_lighthouse_mobile.png)
-
 ![lighthouse Images Gallery Mobile](docs/gallery_page_lighthouse_mobile.png)
 
-![lighthouse Images Contact Mobile](docs/contact_page_lighthouse_mobile.png)
+![lighthouse Images Contact Mobile](docs/signup-lighthouse-mobile.png)
 
 ### Deployment
 
@@ -164,11 +148,10 @@ The live link ca be found here: [Culinary-Classroom](https://miguelmurillog.gith
 
 - The idea for this project was based in the challenge of Love Running project. I don't have any previous experience in coding it was challenging. 
 - The icons in for the footer were taken from [Font Awesome](https://fontawesome.com/)
-- A big thank you to my brother Cristian Leon, for allowing me to use his images and content profile, I must say his passion for what he does has inspired me to pursue this new path in web development.
 
 ## Media
 
-- All images in my website project were provided by Cristian Leon (the artist).
+- All images in my website was taken from my Culinary Classrrom course last year.
 
 ## Acknowledgements
 
@@ -176,5 +159,4 @@ The live link ca be found here: [Culinary-Classroom](https://miguelmurillog.gith
 - The online tutors for all their help.
 - The Code Institute slack community.
 - Online tutorials about HTML and CSS.
-- My new mentor Chris Quinn, thank you for all your positive feedback and guidance given. 
-- Last but not least Code Institute student support team, for listening to my concerns and for all their encouragement given.
+- Code institite support, was really helpul through this challenge.

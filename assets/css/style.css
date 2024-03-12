@@ -65,7 +65,7 @@ color: inherit;
 /* chef picture */
 
 #chef-image {
-  height: 700px;
+  height: 600px;
   width: 100%;
   background-image: url(../images/chef-team.jpg);
   background-size:cover;

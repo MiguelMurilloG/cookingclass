@@ -4,8 +4,7 @@
 
 The Culinary Classroom Website is designed to promote a course that I been working as a chef for the last 10 months. The goal in this project is to prove my knowledge that I been practicsing during my course in HTML and CSS.
 
-[Screenshot from iam responsive] (.doc)
-
+![Screenshot from amiresponsivedesign](docs/iam-responsive.png)
 ---
 
 ## Live Site
@@ -26,42 +25,39 @@ My project consists of three webpages:
 
 - A responsive navigation bar facilitates easy access to different sections of the website, including Home, Photos and  Sign up.
 
-![Screenshot of the Navigation Bar](assets/images/screenshot_navigation.png)
+![Screenshot of the Navigation Bar](docs/nav-bar.png)
 
 ### - The Home Page
 
 - Home page, displays the main image of the culinary clasroom team, this is located on the top of the website. it aims to give the user a first time view experience 
 - The user will find short description of the course and also details for when has to be enrolled . This section is also supported by the footer social media links.
 
-![Screenshot of the Home Page](docs/home_landing_page.png)
+![Screenshot of the Home Page](docs/home-page.png)
 
 ### - The Photos Page
 
 - Gallery page, highlights various images of the artist work, some of them are sketches and some are personal projects for use of his portfolio.
 
-![Screenshot of the Gallery Page](docs/gallery_page_new.png)
+![Screenshot of the Gallery Page](docs/photo-page.png)
 
 ### - The Sign up Page
 
 - Contact page, encourages the users to send their details to enrol into the program
 - The sign up form collects details of the user such as name, last namel and email adress.
 
-![Screenshot of the Contact Page](assets/images/Contact_Page.png)
+![Screenshot of the Sign up Page](docs/signup-page.png)
 
 
 - I tested the sign up form with a succesful result.
 
-![Screenshot submitted contact form](assets/images/contact_form_submitted.png)
+![Screenshot submitted sign up form](docs/signup-form.png)
 
-- I tested the validation on the contact form and works very well, name, email and phone fields are mandatory preventing the user of leaving this black or without the required information.
-
-![Contact form validation](docs/contact_form_validation.png)
 
 ### - The Footer
 
 - The footer section includes links to social medias.
 
-![Screenshot of the Gallery Page](assets/images/Footer_Social_Media.png)
+![Screenshot of the social media footer](docs/footer.png)
 
 ## Testing
 ---
@@ -141,7 +137,7 @@ My project consists of three webpages:
 
 ### Mobile
 
-![lighthouse Images Home Mobile](docs/home_page_lighthouse_mobile.png)
+![lighthouse Images Home Mobile](docs/)
 
 ![lighthouse Images Profile Mobile](docs/profile_page_lighthouse_mobile.png)
 
@@ -158,7 +154,7 @@ The site was deployed to GitHub pages. The steps to deploy are:
 - From the source section drop-down menu, select the Main Branch click on seve.
 - Once the Main Branch has been selected and saved, the page provided the link to the completed website.
 
-The live link ca be found here: [Cristian Leon - 3D Artist](https://henryl74.github.io/3d-artist-personal-website/)
+The live link ca be found here: [Culinary-Classroom](https://miguelmurillog.github.io/culinary-classroom/index.html)
 
 ----
 # Credits
@@ -182,4 +178,3 @@ The live link ca be found here: [Cristian Leon - 3D Artist](https://henryl74.git
 - Online tutorials about HTML and CSS.
 - My new mentor Chris Quinn, thank you for all your positive feedback and guidance given. 
 - Last but not least Code Institute student support team, for listening to my concerns and for all their encouragement given.
--

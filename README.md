@@ -159,4 +159,4 @@ The live link ca be found here: [Culinary-Classroom](https://miguelmurillog.gith
 - The online tutors for all their help.
 - The Code Institute slack community.
 - Online tutorials about HTML and CSS.
-- Code institite support, was really helpul through this challenge.
+- Special thanks to Code Institute for guidance and support throughout the development process.

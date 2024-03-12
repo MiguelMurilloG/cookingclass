@@ -97,18 +97,17 @@ animation-fill-mode: forwards;
 }
 
 h2 {
-margin-top: 60px;
+margin-top: 30px;
 text-align: center;
 font-size: 30px;
-margin-bottom: auto;
+
 }
 
-p {
-  padding: 40px;
-  width: 90%;
+.center-paragraph {
+
   text-align: center;
-  font-size: 140%;
-  line-height: 30px;
+  font-size: 130%;
+  
 
 }
 
@@ -211,7 +210,7 @@ img {
 /* for large medium screen sizes 1200px */
 @media (max-width: 1200px) {
  
-  #join-us {
+  #center-content {
     width: 100%;
     height: 1200px;
     margin: 0 auto;
@@ -224,11 +223,12 @@ img {
 
 @media screen and (max-width: 950px) {
 
-  #menu {
+  #center-content {
     
       width: 90%;
       height: auto;
       margin: 0 auto;
+      
   }
 
   .box-container {

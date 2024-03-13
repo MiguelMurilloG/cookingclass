@@ -2,7 +2,7 @@
 
 
 
-The Culinary Classroom Website is designed to promote a course that I been working as a chef for the last 10 months. The goal in this project is to prove my knowledge that I been practicsing during my course in HTML and CSS.
+The Culinary Classroom Website serves as a platform to promote a culinary course developed based on my 10 months of experience working as a chef. This project aims to showcase the skills and knowledge acquired throughout the course of study in HTML and CSS. By creating this website, I aim to demonstrate proficiency in web development and highlight the value of the culinary course I have been diligently working on.
 
 ![Screenshot from amiresponsivedesign](docs/iam-responsive.png)
 ---
@@ -15,7 +15,7 @@ The Culinary Classroom Website is designed to promote a course that I been worki
 # Features
 
 
-My project consists of three webpages:
+My project consists of three webpages:[text](https://chat.openai.com/c/e01568c9-add5-4274-9410-554186b04a00)
 
 - Home page
 - Photo page
@@ -63,8 +63,8 @@ My project consists of three webpages:
 ---
 
 - I tested this page in different web browsers such as: Chrome, Firefox, Safari on desktop and mobile phones respectively.
-- I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the DevTools device toolbar.
-- I confirmed that the navigation, header, home, profile, gallery, and contact text are all readable and easy to understand.
+- I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the DevTools    device toolbar.
+- I confirmed that the navigation, header, home, photos  and sign up form are all readable and easy to understand for the user.
 - I confirmed that the form works. It requires entries in every field (excluding the message), will only accept an email in the email field, and the submit button works.
 
 ### Google Chrome Browser
@@ -84,15 +84,9 @@ My project consists of three webpages:
 
 ### Solved bugs
 
-- While testing the navegation menu before deploying my project to github, I noticed there was a problem when clicking on the profile menu from the contact one; instead of taking me to the correct destination, it took me to the home page instead.
-- I discovered this was due when I copied the initial index.html file to the contact one, I forgot to update the href to "profile.html" within the anchor element.
+- During the development process, I encountered an issue with integrating Google Fonts into the project within Visual Studio Code. Despite implementing the appropriate syntax, the fonts failed to render correctly. Upon troubleshooting, I discovered that enclosing the font names within quotation marks resolved the issue. This adjustment ensured proper integration of Google Fonts, allowing for consistent and appealing typography throughout the website.
 
-![Screenshot of the anchor element](assets/images/anchor_code.png)
-
-
-![Screenshot of the box id](assets/images/CSS_Profile_Box.png)
-
-- The pictures in the website the resolution was too high  and affected the score for performance in lighthouse for this section of the website, I fixed this by converting the file reducing the size.
+- TOne challenge encountered during development was related to the resolution of images used on the website. The high resolution of these images negatively impacted the performance score in Lighthouse tests. To address this issue, I resized and optimized the images, reducing their file size without compromising on quality. This optimization resulted in improved website performance, ensuring faster loading times and a better user experience overall.
 
 ### Unfixed Bugs
 
@@ -146,7 +140,8 @@ The live link ca be found here: [Culinary-Classroom](https://miguelmurillog.gith
 
 ## Content
 
-- The idea for this project was based in the challenge of Love Running project. I don't have any previous experience in coding it was challenging. 
+- The Culinary Classroom Website is inspired by the challenge presented in the Love Running project. As someone new to coding without prior experience, embarking on this project was both challenging and immensely rewarding. It served as a significant milestone in my coding journey, allowing me to apply newfound knowledge and skills in a practical context. Through this project, I aimed to create a user-friendly platform for culinary education, leveraging the principles and techniques learned during the Love Running challenge.
+
 - The icons in for the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ## Media
@@ -155,8 +150,7 @@ The live link ca be found here: [Culinary-Classroom](https://miguelmurillog.gith
 
 ## Acknowledgements
 
-- The README template provided y Code Institute on the sample project README.md from "Project Portfolio 1"
-- The online tutors for all their help.
+- The README template provided by Code Institute on the sample project README.md from "Project Portfolio 1"
 - The Code Institute slack community.
 - Online tutorials about HTML and CSS.
-- Special thanks to Code Institute for guidance and support throughout the development process.
+- Special thanks to Code Institute and my mentor Sheryl for guidance and support throughout the development process.

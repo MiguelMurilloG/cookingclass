@@ -38,7 +38,7 @@ My project consists of three webpages:[text](https://chat.openai.com/c/e01568c9-
 
 - Gallery page, highlights various images of the artist work, some of them are sketches and some are personal projects for use of his portfolio.
 
-![Screenshot of the Photos Page](docs/photos.lighthouse-mobile.png)
+![Screenshot of the Photos Page](docs/photo-page.png)
 
 ### - The Sign up Page
 

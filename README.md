@@ -123,7 +123,7 @@ My project consists of three webpages:
 
 ### Mobile
 
-![lighthouse Images Home Mobile](docs/)
+![lighthouse Images Home Mobile](docs/home-lighthouse-mobile.png)
 
 ![lighthouse Images Gallery Mobile](docs/gallery_page_lighthouse_mobile.png)
 

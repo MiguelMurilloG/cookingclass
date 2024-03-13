@@ -86,7 +86,7 @@ My project consists of three webpages:[text](https://chat.openai.com/c/e01568c9-
 
 - During the development process, I encountered an issue with integrating Google Fonts into the project within Visual Studio Code. Despite implementing the appropriate syntax, the fonts failed to render correctly. Upon troubleshooting, I discovered that enclosing the font names within quotation marks resolved the issue. This adjustment ensured proper integration of Google Fonts, allowing for consistent and appealing typography throughout the website.
 
-- TOne challenge encountered during development was related to the resolution of images used on the website. The high resolution of these images negatively impacted the performance score in Lighthouse tests. To address this issue, I resized and optimized the images, reducing their file size without compromising on quality. This optimization resulted in improved website performance, ensuring faster loading times and a better user experience overall.
+- One challenge encountered during development was related to the resolution of images used on the website. The high resolution of these images negatively impacted the performance score in Lighthouse tests. To address this issue, I resized and optimized the images, reducing their file size without compromising on quality. This optimization resulted in improved website performance, ensuring faster loading times and a better user experience overall.
 
 ### Unfixed Bugs
 

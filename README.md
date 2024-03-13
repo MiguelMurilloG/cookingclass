@@ -119,7 +119,7 @@ My project consists of three webpages:[text](https://chat.openai.com/c/e01568c9-
 
 ![lighthouse Images Home Mobile](docs/home-lighthouse-mobile.png)
 
-![lighthouse Images Gallery Mobile](docs/gallery_page_lighthouse_mobile.png)
+![lighthouse Images Gallery Mobile](docs/photos.lighthouse-mobile.png)
 
 ![lighthouse Images Contact Mobile](docs/signup-lighthouse-mobile.png)
 

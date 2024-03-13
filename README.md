@@ -2,7 +2,7 @@
 
 
 
-The Culinary Classroom Website serves as a platform to promote a culinary course developed based on my 10 months of experience working as a chef. This project aims to showcase the skills and knowledge acquired throughout the course of study in HTML and CSS. By creating this website, I aim to demonstrate proficiency in web development and highlight the value of the culinary course I have been diligently working on.
+The Culinary Classroom Website serves as a platform to promote a culinary course developed based over a 10 months period. This project aims to showcase the skills and knowledge acquired throughout the course of my studies in HTML and CSS. 
 
 ![Screenshot from amiresponsivedesign](docs/iam-responsive.png)
 ---

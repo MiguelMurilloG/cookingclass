@@ -9,7 +9,7 @@ The Culinary Classroom Website serves as a platform to promote a culinary course
 
 ## Live Site
 
-[Culinary-Classroom] (https://miguelmurillog.github.io/culinary-classroom)
+[Culinary-Classroom](https://miguelmurillog.github.io/culinary-classroom)
 
 ---
 # Features

@@ -9,7 +9,7 @@ The Culinary Classroom Website serves as a platform to promote a culinary course
 
 ## Live Site
 
-[Culinary-Classroom] (https://miguelmurillog.github.io/culinary-classroom/index.html)
+[Culinary-Classroom] (https://miguelmurillog.github.io/culinary-classroom)
 
 ---
 # Features
@@ -132,7 +132,7 @@ The site was deployed to GitHub pages. The steps to deploy are:
 - From the source section drop-down menu, select the Main Branch click on seve.
 - Once the Main Branch has been selected and saved, the page provided the link to the completed website.
 
-The live link ca be found here: [Culinary-Classroom](https://miguelmurillog.github.io/culinary-classroom/index.html)
+The live link ca be found here: [Culinary-Classroom](https://miguelmurillog.github.io/culinary-classroom)
 
 ----
 # Credits

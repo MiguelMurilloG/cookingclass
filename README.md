@@ -15,7 +15,7 @@ The Culinary Classroom Website serves as a platform to promote a culinary course
 # Features
 
 
-My project consists of three webpages:[text](https://chat.openai.com/c/e01568c9-add5-4274-9410-554186b04a00)
+My project consists of three webpages:
 
 - Home page
 - Photos page

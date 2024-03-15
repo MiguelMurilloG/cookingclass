@@ -25,7 +25,7 @@ h1  {
   font-size: 200%;
    
 }
- /* navigation links*/
+ /* navigation links */
 
 #title {
   float: left;
@@ -73,7 +73,7 @@ color: inherit;
   background-repeat: no-repeat; 
   overflow: hidden;
 
-/* chef animation*/
+/* chef animation */
 animation-name: chef-image;
 animation-duration: 3s;
 animation-fill-mode: forwards;
